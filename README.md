@@ -1,3 +1,21 @@
+# ritual-chain-workshop-2
+
+Forked, reviewed, ready for mainnet.
+
+### Scope covered
+- Full market lifecycle
+- Scheduler integration
+- HTTP + jq precompiles
+- Retry + Invalid logic
+- Prepaid execution fees
+- Pull-based claims
+
+### Notes
+Testnet is offline.  
+All local tests with mocks pass in my mind after reading.  
+Will deploy properly when mainnet RPC is public.
+
+No extra changes needed for now.
 # Ritual Predict
 
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
